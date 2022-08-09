@@ -47,9 +47,11 @@ header h1{
     text-align: left;
 }
 
-header div:last-child{
+header div:last-child {
     display: flex;
     align-items: center;
+    justify-content: flex-end;
+    
 }
 
 /*********************************
